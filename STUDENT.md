@@ -6,23 +6,21 @@
 - Wersja Git: 2.43.0
 - Wersja kompilatora C++: 13.3.0
 - Wersje java i javac: 17.0.20.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): a
+- Link do pierwszego PR (uzupełnij w zadaniu 5): https://github.com/jakubd6/oop-lab00-jakubd6/pull/1
 
 ## Uruchomienie lokalne
 Wynik programu C++:
-```text
-...
-```
+Hello from C++! Author: jakubd6
+
+
 Wynik programu Java:
-```text
-...
-```
+Hello from Java! Author: jakubd6
 
 ## Błąd i poprawka (zadanie 5)
-- Krótki fragment komunikatu błędu i numer linii: ...
-- Przyczyna oraz sposób naprawy: ...
-- Commit z błędem (SHA lub link): ...
-- Czy Actions pokazały błąd, a po naprawie sukces? ...
+- Krótki fragment komunikatu błędu i numer linii: Error: Process completed with exit code 1. linia 5
+- Przyczyna oraz sposób naprawy: brak ;
+- Commit z błędem (SHA lub link): https://github.com/jakubd6/oop-lab00-jakubd6/actions/runs/37844370892
+- Czy Actions pokazały błąd, a po naprawie sukces? tak
 
 ## Krótkie odpowiedzi
 1. Co różni commit od push? ...
