@@ -6,7 +6,7 @@
 - Wersja Git: 2.43.0
 - Wersja kompilatora C++: 13.3.0
 - Wersje java i javac: 17.0.20.1
-- Link do pierwszego PR (uzupełnij w zadaniu 5): ...
+- Link do pierwszego PR (uzupełnij w zadaniu 5): a
 
 ## Uruchomienie lokalne
 Wynik programu C++:
