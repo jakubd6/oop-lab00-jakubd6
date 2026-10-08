@@ -23,9 +23,9 @@ Hello from Java! Author: jakubd6
 - Czy Actions pokazały błąd, a po naprawie sukces? tak
 
 ## Krótkie odpowiedzi
-1. Co różni commit od push? ...
-2. Dlaczego po scaleniu PR wykonuję lokalnie pull? ...
-3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? ...
+1. Co różni commit od push? commit lokalnie, push wysyla na serwer
+2. Dlaczego po scaleniu PR wykonuję lokalnie pull? pobieramy wersje z serwera na lokalny komputer
+3. Co potwierdza zielony wynik naszego CI, a czego nie potwierdza? że przeszedl kompilacjie, ale nie potwierdza ze jest poprawny i dziala tak jak chcemy
 
 ## Ewentualne problemy środowiska
-Brak / opis problemu i sposób rozwiązania: ...
+Brak
